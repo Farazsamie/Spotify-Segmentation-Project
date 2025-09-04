@@ -1,1 +1,1 @@
-# Spotify-Segmentation-Project
+# Spotify-Segmentation
